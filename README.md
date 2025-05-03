@@ -45,7 +45,7 @@ Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.githu
 
 - **Informe de Jubilaciones y Pensiones  - Microrregiones 2024 - Provincia del Chaco.**   
 Distribución Etaria de Jubilaciones y Pensiones de la Provincia según tipo y detalle por Departaemnto. 
-Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.github.io/ipecd/Eph_AMGR_Informe.html)
+Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.github.io/ipecd/Chaco_Micro_Jub_Pens_2022.html)
 
 
 ###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
