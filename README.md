@@ -42,7 +42,13 @@ Identificación tomando referencia de Fracción y Radio censal ronda 2022. [VER]
 Relevamiento de viviendas Encuesta Permanente de Hogares, tomando referencia desde 1er. trimestre 2022 hasta 4to. trimestre 2023. 
 Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.github.io/ipecd/Eph_AMGR_Informe.html)
 
-###### Fuente:EPH - Dirección Relevamiento y Encuestas  - Refresentado Tableau-Autor:Claudio Lezana.
+
+- **Informe de Jubilaciones y Pensiones  - Microrregiones 2024 - Provincia del Chaco.**   
+Distribución Etaria de Jubilaciones y Pensiones de la Provincia según tipo y detalle por Departaemnto. 
+Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.github.io/ipecd/Eph_AMGR_Informe.html)
+
+
+###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
 
 
 
