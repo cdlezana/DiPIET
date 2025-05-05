@@ -51,5 +51,15 @@ Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.githu
 ###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
 
 
+- **Informe de Educación  - Microrregiones 2024 - Provincia del Chaco.**   
+Educación - Distribución Etaria de la Provincia según tipo. 
+Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.github.io/ipecd/Chaco_Micro_Educacion_2022.html)
+
+
+###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
+
+
+
+
 
 
