@@ -59,6 +59,14 @@ Detallando según la figura de encuesta "Efectiva". [VER](https://cdlezana.githu
 ###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
 
 
+- **Variación de población Intercensal 1991 - 2022 - Provincia del Chaco.**   
+Variación de población Intercensal Censos 1991 - 2001 - 2010 - 2022. 
+En base a Censo 1991 - Detallado por MUnicipio. [VER](https://cdlezana.github.io/ipecd/Chaco_Variacion_Intercensal.html)
+
+
+###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
+
+
 
 
 
