@@ -68,7 +68,7 @@ En base a Censo 1991 - Detallado por MUnicipio. [VER](https://cdlezana.github.io
 
 - **Estructura de Población 2022 por Microroregión- Provincia del Chaco.**   
 Piramide de población 2022 según Microrregión y Proporción respecto al Departamento. 
-Detallado por sexo. [VER](https://cdlezana.github.io/ipecd/Chaco_Microrregión_Estruct_Poblac.html)
+Detallado por sexo. [VER](https://cdlezana.github.io/ipecd/Chaco_Microrregion_Estruct_Poblac.html)
 
 
 ###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
