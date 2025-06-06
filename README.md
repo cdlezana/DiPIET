@@ -1,6 +1,6 @@
-# ipecd
+# DiPIET - Chaco
 
-## Instituto Provincial de Estadística y Ciencia de Datos.
+## Dirección Provincial de Información Estadística y Territorial.
 
 <h3>Demo de visualizaciones</h3>
 
