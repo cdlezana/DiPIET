@@ -76,7 +76,7 @@ Detallado por sexo. [VER](https://cdlezana.github.io/ipecd/Chaco_Microrregion_Es
 
 - **Estructura de Población 2022 por Microroregión según Tipo Jubilación - Pensión - Sist. Salud - Provincia del Chaco.**   
 Piramide de población 2022 por edades quinquenales según Microrregión y Proporción respecto al Departamento . 
-Detallado por sexo. [VER](https://cdlezana.github.io/ipecd/Micro_25_rregion_Estruct_Poblac.html)
+Detallado por sexo. [VER](https://cdlezana.github.io/ipecd/Micro_25_Condicion_Jubilacion_Salud.html)
 
 
 ###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
