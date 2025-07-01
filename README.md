@@ -85,7 +85,13 @@ Detallado por sexo. [VER](https://cdlezana.github.io/DiPIET/Micro_25_Condición_
 Variación de población Intercensal Censos 1991 - 2001 - 2010 - 2022. 
 En base a Censo 1991 - Detallado por Municipio. [VER](https://cdlezana.github.io/DiPIET/Chaco_variacion_intercensal_smart.html)
 
+###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
 
+- **Calidad de Hogares 2022 - Provincia del Chaco.**   
+Calidad de materiales de construcción de los hogares relevados en el CNP_2022. 
+En base a Censo 2022 - Detallado por Departamento. [VER](https://cdlezana.github.io/DiPIET/Chaco_Calidad_Hogares_2022.html)
+
+###### Fuente:INDEC - Censo Nacional de Población, Viviendas y Hogares 2022. Tableau-Autor:Claudio Lezana - Collados Eduardo.
 
 
 
