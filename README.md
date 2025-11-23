@@ -16,3 +16,9 @@ Segmentación de las viviendas, tomando referencia imágen satelital Google Eart
 Identificación tomando referencia de Fracción y Radio censal ronda 2022. [VER](https://cdlezana.github.io/ipecd/La_Fidelidad_Seg.html)  
   
 ###### Fuente:Fundación ... - Censo de Población, viviendas y hogares rondas 2022 INDEC- Refresentado Flourish-Autor:Claudio Lezana.
+
+- **Indice de Envejecimiento - Dependencia Potencial - por departamento de la Provincia del Chaco.**   
+Indice elaborado por la Dirección de Encuestas. 
+Cálculos realizados mediante las fórmulas: . [VER](https://cdlezana.github.io/ipecd/La_Fidelidad_Seg.html)  
+  
+###### Fuente:Censo de Población, viviendas y hogares rondas 2001, 2010 y 2022 INDEC- Refresentado Tableau Public-Autor:Claudio Lezana.
